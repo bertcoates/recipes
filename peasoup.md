@@ -5,3 +5,5 @@
 
 
 # Instructions
+- peel potato
+- chop onions
